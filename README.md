@@ -12,3 +12,6 @@ A Simple event based elevator system for Unity3D. Here's a few features highligh
 
 ## Install
 This is a small, but complete Unity scene. Clone this repo and start it as a normal Unity project. All caches have been removed to make it lighter.
+
+## Unity version
+That project was created on version 2021.3.0f1 but can be upgraded upward.  If you need it for a previous version, you can salvage the scripts easily.
