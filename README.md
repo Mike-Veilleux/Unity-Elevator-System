@@ -15,3 +15,6 @@ That project was created on version 2021.3.0f1 but can be upgraded upward.  If y
 
 ## Install
 This is a small, but complete Unity scene. Clone this repo and start it as a normal Unity project. All caches have been removed to make it lighter.
+
+## Licensing
+Feel free to use it in all your project, no strings attached!
