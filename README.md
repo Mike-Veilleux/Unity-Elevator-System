@@ -2,7 +2,7 @@
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   
-
+## Description
 A Simple event based elevator system for Unity3D. Here's a few features highlight:
 
 - Animated doors
@@ -16,5 +16,8 @@ That project was created on version 2021.3.0f1 but can be upgraded upward.  If y
 ## Install
 This is a small, but complete Unity scene. Clone this repo and start it as a normal Unity project. All caches have been removed to make it lighter.
 
-## Licensing
-Feel free to use it in all your open source project, no strings attached!
+## Roadmap
+Next release will try to include a editor interface for easier configuration.
+
+## License
+This project is licensed unde MIT. Feel free to use it in all your open source project, no strings attached!
